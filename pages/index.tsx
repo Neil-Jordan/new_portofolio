@@ -127,7 +127,7 @@ export default function Home() {
               <div className='text-gray-100 py-1 flex justify-center'>
                 <MdAlternateEmail className='text-center' />
               </div>
-              <p className='text-gray-100 py-1'>NKdoesDev@gmail.com</p>
+              <p className='text-gray-100 py-1'>NKDoesDev@gmail.com</p>
 
             </div>
 
